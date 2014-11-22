@@ -1,4 +1,6 @@
-android_packages_apps_CMHome
+Copyright (c) 2014 CyanogenMod
+
+platform_packages_apps_TOHome
 ============================
 
-An extendable homescreen for use with CyanogenMod
+An extendable homescreen for use with OctOS
