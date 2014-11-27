@@ -28,7 +28,7 @@ LOCAL_SRC_FILES += $(call all-java-files-under, $(library_src_files))
 LOCAL_RESOURCE_DIR += $(LOCAL_PATH)/res \
 	$(LOCAL_PATH)/../../../../external/cardslib/library/src/main/res
 
-LOCAL_PACKAGE_NAME := CMHome
+LOCAL_PACKAGE_NAME := TOHome
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags
 LOCAL_AAPT_FLAGS := \
 	--auto-add-overlay \
